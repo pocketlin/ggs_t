@@ -1,0 +1,19 @@
+(.venv) PS D:\projects\pycharmpro\ggs_t> playwright install
+Downloading Chrome for Testing 149.0.7827.55 (playwright chromium v1228) from https://cdn.playwright.dev/builds/cft/149.0.7827.55/win64/chrome-win64.zip
+183.6 MiB [====================] 100% 0.0s
+Chrome for Testing 149.0.7827.55 (playwright chromium v1228) downloaded to C:\Users\32534\AppData\Local\ms-playwright\chromium-1228
+Downloading Chrome Headless Shell 149.0.7827.55 (playwright chromium-headless-shell v1228) from https://cdn.playwright.dev/builds/cft/149.0.7827.55/win64/chrome-headless-shell-win64.zip
+113.6 MiB [====================] 100% 0.0s
+Chrome Headless Shell 149.0.7827.55 (playwright chromium-headless-shell v1228) downloaded to C:\Users\32534\AppData\Local\ms-playwright\chromium_headless_shell-1228
+Downloading Firefox 151.0 (playwright firefox v1532) from https://cdn.playwright.dev/dbazure/download/playwright/builds/firefox/1532/firefox-win64.zip
+116.8 MiB [====================] 100% 0.0s
+Firefox 151.0 (playwright firefox v1532) downloaded to C:\Users\32534\AppData\Local\ms-playwright\firefox-1532
+Downloading WebKit 26.5 (playwright webkit v2311) from https://cdn.playwright.dev/dbazure/download/playwright/builds/webkit/2311/webkit-win64.zip
+58.8 MiB [====================] 100% 0.0s
+WebKit 26.5 (playwright webkit v2311) downloaded to C:\Users\32534\AppData\Local\ms-playwright\webkit-2311
+Downloading FFmpeg (playwright ffmpeg v1011) from https://cdn.playwright.dev/dbazure/download/playwright/builds/ffmpeg/1011/ffmpeg-win64.zip
+1.3 MiB [====================] 100% 0.0s
+FFmpeg (playwright ffmpeg v1011) downloaded to C:\Users\32534\AppData\Local\ms-playwright\ffmpeg-1011
+Downloading Winldd (playwright winldd v1007) from https://cdn.playwright.dev/dbazure/download/playwright/builds/winldd/1007/winldd-win64.zip
+0.1 MiB [====================] 100% 0.0s
+Winldd (playwright winldd v1007) downloaded to C:\Users\32534\AppData\Local\ms-playwright\winldd-1007

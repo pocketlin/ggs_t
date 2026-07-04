@@ -1,0 +1,15 @@
+{
+  "proxy": {
+    "enabled": false,
+    "http": "",
+    "https": ""
+  },
+  "threads": 8,
+  "chunk_size": 1048576,
+  "retry": {
+    "max_retries": 3,
+    "backoff_factor": 1
+  },
+  "timeout": 30,
+  "verify_ssl": true
+}

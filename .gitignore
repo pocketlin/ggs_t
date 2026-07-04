@@ -1,1 +1,10 @@
 /.venv/
+.idea/
+.links/
+*.exe
+*.msi
+*.dmg
+*.zip
+*.tar.gz
+__pycache__/
+*.pyc
